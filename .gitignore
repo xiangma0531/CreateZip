@@ -1,7 +1,9 @@
-# 除外するフォルダ
+# Ignore Repositories
 .vscode/
 zip_test/
 
-# 除外するファイル
+# Ignore Files
 .ruby-version
 create_zip.rb
+.gitattributes
+.gitignore
