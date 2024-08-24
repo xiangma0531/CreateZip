@@ -1,0 +1,7 @@
+# 除外するフォルダ
+.vscode/
+zip_test/
+
+# 除外するファイル
+.ruby-version
+create_zip.rb
