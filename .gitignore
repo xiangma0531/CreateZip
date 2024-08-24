@@ -1,9 +1,8 @@
 # Ignore Repositories
-.vscode/
 zip_test/
+.vscode/
 
 # Ignore Files
+.gitignore
 .ruby-version
 create_zip.rb
-.gitattributes
-.gitignore
